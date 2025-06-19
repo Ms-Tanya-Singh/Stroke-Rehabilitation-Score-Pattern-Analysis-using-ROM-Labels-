@@ -31,3 +31,7 @@ This project is built on a **mock dataset** simulating stroke rehabilitation sco
 - Integrate with time-series or temporal sequence modeling
 - Collaborate with clinicians to refine ROM categorization criteria
 
+  
+**Keywords:**  
+stroke rehabilitation, range of motion, ROM analysis, rehab game data, patient recovery trends, movement science, physical therapy, streak detection, game-based therapy, Jupyter Notebook, Python, mock dataset, healthcare analytics, rehab tech, motor recovery
+
